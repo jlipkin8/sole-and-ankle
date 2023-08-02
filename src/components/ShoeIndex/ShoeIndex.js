@@ -56,7 +56,7 @@ const LeftColumn = styled.div`
 const MainColumn = styled.div`
   display: flex;
   flex-direction: column;
-  flex: 5;
+  flex: 4;
 `;
 
 const Header = styled.header`
